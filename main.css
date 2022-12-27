@@ -1,10 +1,10 @@
-mascot {
-    width: 24px;
-    height: 24px;
-    border-radius: 50%;
+.center {
+    text-align: center;
 }
-div {
-    width: 200px;
-    height: 200px;
+
+#mascot {
+    width: 32px;
+    height: 32px;
     background-color: cornflowerblue;
+    border-radius: 50%;
 }
